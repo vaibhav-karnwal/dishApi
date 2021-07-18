@@ -7,7 +7,7 @@ app.get("/", (req,res)=>{
     res.send("Hello World");
 });
 
-app.get('/api/books', (req,res)=> {
+app.get('/dish', (req,res)=> {
     res.send(dishData);
 });
 
