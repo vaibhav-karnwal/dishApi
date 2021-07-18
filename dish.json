@@ -1,19 +1,19 @@
  [{
     "id":1,
     "title":"Italian Special",
-    "img" : "assets/food.png"
+    "img" : "assets/food.png",
     "description":"Italian Foods",
     "price":"12"
    },{ 
      "id":2,
     "title":"Italian Special",
-    "img" : "assets/food.png"
+    "img" : "assets/food.png",
     "description":"Italian Foods",
     "price":"43"
    },{ 
      "id":3,
     "title":"Italian Special",
-    "img" : "assets/food.png"
+    "img" : "assets/food.png",
     "description":"Italian Foods",
     "price":"15"
  }]
