@@ -8,7 +8,7 @@ app.get("/", (req,res)=>{
     res.send("Hello World");
 });
 
-app.post("/dish",(req, res)=>{
+app.get("/dish",(req,res)=>{
     res.send(dishData);
 });
 
