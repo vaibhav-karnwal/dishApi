@@ -3,17 +3,20 @@
     "title":"Italian Special",
     "img" : "assets/food.png",
     "description":"Italian Foods",
+    "counter":"1",
     "price":"12"
    },{ 
      "id":2,
     "title":"Italian Special",
     "img" : "assets/food.png",
     "description":"Italian Foods",
+    "counter":"1",
     "price":"43"
    },{ 
      "id":3,
     "title":"Italian Special",
     "img" : "assets/food.png",
     "description":"Italian Foods",
+    "counter":"1",
     "price":"15"
  }]
