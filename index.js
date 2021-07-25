@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 let port = process.env.PORT || 3000;
 const dishData = require("./dish.json");
+const projectData = require("./projectApi.json");
 
 app.get("/", (req,res)=>{
     res.send("Hello World");
@@ -9,6 +10,10 @@ app.get("/", (req,res)=>{
 
 app.get('/dish', (req,res)=> {
     res.send(dishData);
+});
+
+app.get('/project', (req,res)=> {
+    res.send(projectData);
 });
 
 app.listen(port, ()=>{
