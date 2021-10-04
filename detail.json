@@ -1,0 +1,14 @@
+{
+  "status":200,
+  "message":[
+    {
+      "spojRank":"17827"
+    },{
+      "hackerrank":"15965"
+    },{
+      "cgpa":"7.77"
+    },{
+      "sem":"6"
+    }
+  ]
+}
