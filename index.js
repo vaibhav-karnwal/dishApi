@@ -12,7 +12,7 @@ app.get('/dish', (req,res)=> {
     res.send(dishData);
 });
 
-app.get('/dish', (req,res)=> {
+app.get('/detail', (req,res)=> {
     res.send(detailData);
 });
 
